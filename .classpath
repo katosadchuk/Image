@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="/Users/katosadchuk/Documents/workspace/ImageInfo/commons-imaging-1.0-SNAPSHOT/commons-imaging-1.0-SNAPSHOT-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/katosadchuk/Documents/workspace/ImageInfo/commons-imaging-1.0-SNAPSHOT/commons-imaging-1.0-SNAPSHOT-javadoc.jar"/>
 	<classpathentry kind="lib" path="/Users/katosadchuk/Documents/workspace/ImageInfo/commons-imaging-1.0-SNAPSHOT/commons-imaging-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/katosadchuk/Downloads/sqlite-jdbc-3.23.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
