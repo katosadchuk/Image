@@ -27,11 +27,4 @@ public class FileIndicator {
 		}
 
 	}
-	
-	
-	public static void main(String[] args) {
-		FileIndicator choose = new FileIndicator();
-
-	}
-
 }
